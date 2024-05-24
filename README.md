@@ -2,7 +2,7 @@
 
 Using data mining to make a recommendation system for choosing an apartment complex to stay in for a new resident given a city
 
-We use [this dataset](https://www.kaggle.com/code/iamsouravbanerjee/there-s-no-place-like-home/input) for our data analysis
+Used [this dataset](https://www.kaggle.com/code/iamsouravbanerjee/there-s-no-place-like-home/input) for our data analysis
 
 ### Requirements
 - Python 3.8
@@ -18,7 +18,7 @@ We use [this dataset](https://www.kaggle.com/code/iamsouravbanerjee/there-s-no-p
 
 
 ### Linear Regressor Pricer
-We will use the **cleaned** housing_dataset.csv (the output of the cleaning script) as the input to our script
+Used the **cleaned** housing_dataset.csv (the output of the cleaning script) as the input to our script
 - Keep the housing_dataset.csv in the same folder as the script / Upload it to the Google Colab Python Notebook
 - Run the script to get the R Squared score of the actual and predicted price of the test dataset.
 - Price any arbitrary vector having the following attributes: `['availability', 'size', 'total_sqft', 'bath', 'balcony']`
